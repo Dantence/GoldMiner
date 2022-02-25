@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.yyw.GameWindow
+Class-Path: jlayer-1.0.1.jar lombok-1.18.22.jar
+
